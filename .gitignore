@@ -1,0 +1,9 @@
+# Compiled programs
+allocator_test
+a.out
+
+# Object files
+*.o
+
+# Other compiled output
+*.out
